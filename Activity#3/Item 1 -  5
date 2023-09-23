@@ -1,0 +1,18 @@
+#Item 1 - 5
+for number in range (5):
+    print("Advanced Computer Programming")
+n = 0 
+while n < 10:
+    print(n)
+    n+=1
+n = 0 
+while n < 10:
+    n+=1
+    print(n)
+n = 0
+while n < 7:
+    print(n)
+    n+=1
+name = input ("Enter your name:")
+for _ in range (4):
+    print(name)

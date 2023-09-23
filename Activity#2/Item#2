@@ -1,0 +1,9 @@
+#Item 2
+egrade = int(input("English:"))
+fgrade = int(input("Filipino:"))
+sgrade = int(input("Science:"))
+mgrade = int(input("Math:"))
+apgrade = int(input("Araling Panlupan:"))
+pegrade = int(input("PE:"))
+ave = (egrade+fgrade+sgrade+mgrade+apgrade+pegrade)/6
+print("Average:",ave)

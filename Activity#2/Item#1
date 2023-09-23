@@ -1,0 +1,11 @@
+#Item 1
+name = input ("Enter your father's name:")
+bplace = input ("Enter his birthplace:")
+bmonth = int(input("Enter his Birthmonth:"))
+bdate = int(input("Enter his Birthdate:"))
+byear = int(input("Enter his Birthyear:"))
+print ("Father's Information")
+print (name)
+print ("He's born in", bplace)
+print ("Birthday:", bmonth,bdate,byear)
+print ("Current year:"),2023-byear
